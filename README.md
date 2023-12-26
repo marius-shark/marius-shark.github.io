@@ -11,3 +11,4 @@ Repository for own page
 open:
 
 - [ ] dependabot
+- [ ] security
